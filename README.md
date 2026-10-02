@@ -1,7 +1,9 @@
 # Machine Learning for Natural Sciences
 
 Kai Zhang 
+
 Department of Chemistry and Biochemistry
+
 The University of Texas at Tyler
 
 
@@ -15,8 +17,8 @@ mls/
 ├── LICENSE
 ├── notebooks
 │   ├── figures
-│   ├── 0_intro_to_Linux.ipynb
 │   ├── 0_intro_to_Jupyter.ipynb
+│   ├── 0_intro_to_Linux.ipynb
 │   ├── 0_intro_to_Python.ipynb
 ```
 
