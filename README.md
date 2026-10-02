@@ -17,6 +17,7 @@ mls/
 │   ├── figures
 │   ├── 0_intro_to_Linux.ipynb
 │   ├── 0_intro_to_Jupyter.ipynb
+│   ├── 0_intro_to_Python.ipynb
 ```
 
 
