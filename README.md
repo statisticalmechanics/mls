@@ -7,6 +7,42 @@ Department of Chemistry and Biochemistry
 The University of Texas at Tyler
 
 
+## Course agenda
+
+1. Introduction
+2. Computer setup: Linux, Python, Jupyter
+3. Mathematical preparation
+
+4. Linear regression
+
+5. Classification by logistic regression
+
+unsupervised learning: clustering
+
+8. Chemoinformatics
+
+6. MLP
+
+7. PyTorch
+
+Graph neural network
+
+Chemprop
+
+CNN
+
+Transformer
+
+AlphaFold
+
+Generative learning
+
+Variational autoencoder (VAE)
+
+Diffusion model
+
+
+
 ## Repo structure
 
 ```
