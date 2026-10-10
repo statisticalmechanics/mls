@@ -52,12 +52,19 @@ mls/
 ├── datasets/
 ├── LICENSE
 ├── notebooks/
+│   ├── data/
+│   │   ├── chemprop_regression.csv
 │   ├── figures/
 │   ├── 0_intro_to_Jupyter.ipynb
 │   ├── 0_intro_to_Linux.ipynb
 │   ├── 0_intro_to_Python.ipynb
 │   ├── 0_math.ipynb
+│   ├── chemprop.ipynb
 ```
+
+## Links to machine learning or deep learning books
+
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop 
 
 
 ## Links to other interesting courses
