@@ -64,7 +64,19 @@ mls/
 
 ## Links to machine learning or deep learning books
 
-[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop 
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (pdf) by Christopher Bishop (2006)
+
+[An Introduction to Statistical Learning](https://www.statlearning.com/) (online) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (2013-2023)
+
+[Deep Learning](https://www.deeplearningbook.org/) (online) by Ian Goodfellow,Yoshua Bengio and Aaron Courville (2016)
+
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/) (online) by Simon J. D. Prince (2023)
+
+[Dive into Deep Learning](https://d2l.ai/) (online) by Amazon engineers (2023)
+
+[Introduction to Machine Learning](https://www.cis.jhu.edu/~younes/machine_learning.pdf) (pdf) by Laurent Younes (2025)
+
+[Deep Learning with Python, 3rd Edition](https://deeplearningwithpython.io/) (online) by François Chollet and Matthew Watson (2025)
 
 
 ## Links to other interesting courses
