@@ -70,6 +70,8 @@ mls/
 
 [Deep Learning](https://www.deeplearningbook.org/) (online) by Ian Goodfellow,Yoshua Bengio and Aaron Courville (2016)
 
+[A high-bias, low-variance introduction to Machine Learning for physicists](https://www.sciencedirect.com/science/article/pii/S0370157319300766) (review paper) by Mehta et al. (2019)
+
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (online) by Simon J. D. Prince (2023)
 
 [Dive into Deep Learning](https://d2l.ai/) (online) by Amazon engineers (2023)
