@@ -76,6 +76,8 @@ mls/
 
 [Dive into Deep Learning](https://d2l.ai/) (online) by Amazon engineers (2023)
 
+[The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html) (pdf) by François Fleuret (2023)
+
 [Introduction to Machine Learning](https://www.cis.jhu.edu/~younes/machine_learning.pdf) (pdf) by Laurent Younes (2025)
 
 [Deep Learning with Python, 3rd Edition](https://deeplearningwithpython.io/) (online) by François Chollet and Matthew Watson (2025)
