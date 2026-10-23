@@ -72,6 +72,8 @@ mls/
 
 [A high-bias, low-variance introduction to Machine Learning for physicists](https://www.sciencedirect.com/science/article/pii/S0370157319300766) (review paper) by Mehta et al. (2019)
 
+[Deep Learning for Molecules and Materials](https://dmol.pub/) (online) by Andrew D. White and others (2021)
+
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (online) by Simon J. D. Prince (2023)
 
 [Dive into Deep Learning](https://d2l.ai/) (online) by Amazon engineers (2023)
