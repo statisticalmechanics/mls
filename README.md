@@ -84,6 +84,9 @@ mls/
 
 [Deep Learning with Python, 3rd Edition](https://deeplearningwithpython.io/) (online) by François Chollet and Matthew Watson (2025)
 
+[Speech and Language Processing, 3rd Edition](https://web.stanford.edu/~jurafsky/slp3/) (online pdf) by Dan Jurafsky and James H. Martin (2026)
+
+[The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) (pdf) by Tianhua Chen (2026)
 
 ## Links to other interesting courses
 
