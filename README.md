@@ -74,6 +74,8 @@ mls/
 
 [Deep Learning for Molecules and Materials](https://dmol.pub/) (online) by Andrew D. White and others (2021)
 
+[Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/) (online pdf) by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön (2022)
+
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (online) by Simon J. D. Prince (2023)
 
 [Dive into Deep Learning](https://d2l.ai/) (online) by Amazon engineers (2023)
