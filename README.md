@@ -76,6 +76,8 @@ mls/
 
 [Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/) (online pdf) by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön (2022)
 
+[Introduction to Machine Learning](https://princeton-introml.github.io/) (pdf lecture notes) by Princeton professors
+
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/) (online) by Simon J. D. Prince (2023)
 
 [Dive into Deep Learning](https://d2l.ai/) (online) by Amazon engineers (2023)
@@ -89,6 +91,8 @@ mls/
 [Speech and Language Processing, 3rd Edition](https://web.stanford.edu/~jurafsky/slp3/) (online pdf) by Dan Jurafsky and James H. Martin (2026)
 
 [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) (pdf) by Tianhua Chen (2026)
+
+[CS229: Machine Learning](https://cs229.stanford.edu/main_notes.pdf) (pdf lecture notes) by Tengyu Ma, Andrew Ng and Stanford professors (2026)
 
 ## Links to other interesting courses
 
