@@ -94,8 +94,20 @@ mls/
 
 [CS229: Machine Learning](https://cs229.stanford.edu/main_notes.pdf) (pdf lecture notes) by Tengyu Ma, Andrew Ng and Stanford professors (2026)
 
+## Links to tutorials (papers or online essays)
+
+[A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by Vincent Dumoulin and Francesco Visin
+
+[An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) by Sebastian Ruder
+
+[An Introduction to Transformers](https://arxiv.org/abs/2304.10557) by Richard E. Turner
+
 ## Links to other interesting courses
 
 [Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/) by Prof. Xuhui Huang at UW Madison
 
 [Discrete Generative Models](https://huggingface.co/ChatterjeeLab/CIS6270) by Prof. Pranam Chatterjee at UPenn
+
+## Links to datasets
+
+[ODAC25](https://huggingface.co/facebook/ODAC25) The Open Direct Air Capture 2025 
