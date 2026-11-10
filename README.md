@@ -94,6 +94,8 @@ mls/
 
 [CS229: Machine Learning](https://cs229.stanford.edu/main_notes.pdf) (pdf lecture notes) by Tengyu Ma, Andrew Ng and Stanford professors (2026)
 
+[Geometric Deep Learning](https://geometricdeeplearning.com/book/) (online) by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković (2026)
+
 ## Links to tutorials (papers or online essays)
 
 [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by Vincent Dumoulin and Francesco Visin
