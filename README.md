@@ -96,6 +96,8 @@ mls/
 
 [Geometric Deep Learning](https://geometricdeeplearning.com/book/) (online) by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković (2026)
 
+[The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/) (pdf) by Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon (2027)
+
 ## Links to tutorials (papers or online essays)
 
 [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by Vincent Dumoulin and Francesco Visin
