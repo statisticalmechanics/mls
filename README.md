@@ -68,6 +68,10 @@ mls/
 
 [An Introduction to Statistical Learning](https://www.statlearning.com/) (online) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (2013-2023)
 
+[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) (pdf) by Shai Shalev-Shwartz and Shai Ben-David (2014)
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (online) by Michael Nielsen (2015)
+
 [Deep Learning](https://www.deeplearningbook.org/) (online) by Ian Goodfellow,Yoshua Bengio and Aaron Courville (2016)
 
 [A high-bias, low-variance introduction to Machine Learning for physicists](https://www.sciencedirect.com/science/article/pii/S0370157319300766) (review paper) by Mehta et al. (2019)
@@ -98,13 +102,15 @@ mls/
 
 [The Principles of Diffusion Models](https://the-principles-of-diffusion-models.github.io/) (pdf) by Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon (2027)
 
-## Links to tutorials (papers or online essays)
+## Links to tutorials (papers, online essays, interactive demos)
 
 [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by Vincent Dumoulin and Francesco Visin
 
 [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) by Sebastian Ruder
 
 [An Introduction to Transformers](https://arxiv.org/abs/2304.10557) by Richard E. Turner
+
+[Neural Network playground](https://playground.tensorflow.org/)
 
 ## Links to other interesting courses
 
