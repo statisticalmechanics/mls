@@ -114,6 +114,8 @@ mls/
 
 [e-means for clustering](https://e-means.github.io/) by Swann Bessa
 
+[A visual explanation for regularization of linear models](https://explained.ai/regularization/) by Terence Parr
+
 ## Links to other interesting courses
 
 [Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/) by Prof. Xuhui Huang at UW Madison
