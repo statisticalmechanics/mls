@@ -112,6 +112,8 @@ mls/
 
 [Neural Network playground](https://playground.tensorflow.org/)
 
+[e-means for clustering](https://e-means.github.io/) by Swann Bessa
+
 ## Links to other interesting courses
 
 [Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/) by Prof. Xuhui Huang at UW Madison
