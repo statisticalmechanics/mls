@@ -66,6 +66,8 @@ mls/
 
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (pdf) by Christopher Bishop (2006)
 
+[A Brief Introduction to Neural Networks](https://dkriesel.com/en/science/neural_networks) (pdf) by D. Kriesel (2007)
+
 [An Introduction to Statistical Learning](https://www.statlearning.com/) (online) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani (2013-2023)
 
 [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) (pdf) by Shai Shalev-Shwartz and Shai Ben-David (2014)
@@ -121,6 +123,8 @@ mls/
 [Machine Learning in Chemistry](https://xuhuihuang.github.io/mlchem/) by Prof. Xuhui Huang at UW Madison
 
 [Discrete Generative Models](https://huggingface.co/ChatterjeeLab/CIS6270) by Prof. Pranam Chatterjee at UPenn
+
+[Mathematical Foundations of Control and Machine Learning](https://cml-fau.github.io/) by Enrique Zuazua at Friedrich-Alexander-Universität Erlangen-Nürnberg
 
 ## Links to datasets
 
