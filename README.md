@@ -129,3 +129,7 @@ mls/
 ## Links to datasets
 
 [ODAC25](https://huggingface.co/facebook/ODAC25) The Open Direct Air Capture 2025 
+
+[Nemotron-RL-litmus-bench-v0.2](https://huggingface.co/datasets/nvidia/Nemotron-RL-litmus-bench-v0.2) Nvidia 50000 chemical reasoning questions dataset 
+
+[Computational-ADME](https://github.com/molecularinformatics/Computational-ADME) Absorption, distribution, metabolism and excretion (ADME)
