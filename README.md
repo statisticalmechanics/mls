@@ -112,6 +112,8 @@ mls/
 
 [An Introduction to Transformers](https://arxiv.org/abs/2304.10557) by Richard E. Turner
 
+[Tutorial: Deriving the Standard Variational Autoencoder (VAE) Loss Function](https://arxiv.org/abs/1907.08956) by Stephen Odaibo
+
 [Neural Network playground](https://playground.tensorflow.org/)
 
 [e-means for clustering](https://e-means.github.io/) by Swann Bessa
