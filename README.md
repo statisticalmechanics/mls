@@ -64,6 +64,8 @@ mls/
 
 ## Links to machine learning or deep learning books
 
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)(online) by Jake VanderPlas (2016)(2023)
+
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (pdf) by Christopher Bishop (2006)
 
 [A Brief Introduction to Neural Networks](https://dkriesel.com/en/science/neural_networks) (pdf) by D. Kriesel (2007)
@@ -127,6 +129,8 @@ mls/
 [Discrete Generative Models](https://huggingface.co/ChatterjeeLab/CIS6270) by Prof. Pranam Chatterjee at UPenn
 
 [Mathematical Foundations of Control and Machine Learning](https://cml-fau.github.io/) by Enrique Zuazua at Friedrich-Alexander-Universität Erlangen-Nürnberg
+
+[Machine Learning For Physicists lecture series](https://machine-learning-for-physicists.org/) by Florian Marquardt
 
 ## Links to datasets
 
